@@ -1,4 +1,4 @@
-📘 README.md — Python Package In Conda / Install With Pytest
+📘 README.md —Python-Package-In-Conda
 
 A fully self‑healing, auto-fixing, auto‑versioned, auto‑releasing MLOps system.
 
